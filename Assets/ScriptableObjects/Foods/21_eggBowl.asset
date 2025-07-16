@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d24a81ea721bc744ba455cbc068c004, type: 3}
+  m_Name: 21_eggBowl
+  m_EditorClassIdentifier: 
+  foodName: "\u0E02\u0E49\u0E32\u0E27\u0E2B\u0E19\u0E49\u0E32\u0E44\u0E02\u0E48"
+  foodID: 21
+  foodStar: 2
+  energyConsumption: 10
+  timeConsumption: 10
+  ingredientsList:
+  - ingredient: {fileID: 11400000, guid: 3d574c461fb135b4593be8278ef9b935, type: 2}
+    amounts: 3
+  - ingredient: {fileID: 11400000, guid: 16be637bb69ec454ab58d1de829f9b41, type: 2}
+    amounts: 3
+  foodImage: {fileID: 3233641823773049619, guid: 1cd2755dd90e92f488482774a287f643, type: 3}

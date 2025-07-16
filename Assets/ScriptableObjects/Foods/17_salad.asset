@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d24a81ea721bc744ba455cbc068c004, type: 3}
+  m_Name: 17_salad
+  m_EditorClassIdentifier: 
+  foodName: "\u0E2A\u0E25\u0E31\u0E14"
+  foodID: 17
+  foodStar: 1
+  energyConsumption: 10
+  timeConsumption: 10
+  ingredientsList:
+  - ingredient: {fileID: 11400000, guid: 8773dda4e7ad3c54cb6da649e814e1ef, type: 2}
+    amounts: 1
+  - ingredient: {fileID: 11400000, guid: 840d6f336e16252408dc5a65189becbb, type: 2}
+    amounts: 1
+  foodImage: {fileID: 6111375252285160066, guid: 1cd2755dd90e92f488482774a287f643, type: 3}
